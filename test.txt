@@ -1,0 +1,127 @@
+{| class="wikitable sortable"
+|-
+! Animal Name !! Type !! Diet !! Produces !! Average Production/Day !! Average Nutrition Produced/Day !! Nutrition Needed/Day !! Hay/Kibble/Day
+|-
+| [[Alpaca]] || Farm, Pack, Wild || Herbivorous || Wool || 6.67 || - || 0.72 || 14.4
+|-
+| [[Alphabeaver]] || Wild || Dendrovorous || - || - || - || 4.8 || 96
+|-
+| [[Arctic fox]] || Wild || Carnivorous || - || - || - || 0.29 || 5.8
+|-
+| [[Arctic wolf]] || Wild || Carnivorous || - || - || - || 0.29 || 5.8
+|-
+| [[Bison]] || Farm, Pack, Wild || Herbivorous || Wool|| 4 || - || 1.36 || 27.2
+|-
+| [[Boomalope]] || Farm, Wild || Herbivorous || Chemfuel || 6 || - || 2.08 || 41.6 
+|-
+| [[Boomrat]] || Wild || Omnivorous || - || - || - || 0.56 || 11.2
+|-
+| [[Capybara]] || Wild || Herbivorous || - || - || - || 0.48 || 9.6
+|-
+| [[Caribou]] || Farm, Wild || Herbivorous || Milk || 6 || 0.3 || 1.44 || 28.8
+|- 
+| [[Cassowary]] || Farm, Wild || Herbivorous || Eggs|| 0.059 || 0.015 || 0.64 || 12.8
+|-
+| [[Cat]] || Pet || Carnivorous || - || - || - || 0.16|| 3.2 
+|-
+| [[Chicken]] || Farm, Pet || Herbivorous || Eggs || 0.5 || 0.125 || 0.56 || 11.2
+|-
+| [[Chinchilla]] || Wild || Herbivorous || - || - || - || 0.48 || 9.6
+|-
+| [[Cobra]] || Farm, Wild || Carnivorous || Eggs || 0.075 || 0.019 || 0.11 || 2.2
+|-
+| [[Cougar]] || Wild || Carnivorous || - || - || - || 0.48 || 9.6
+|-
+| [[Cow]] || Farm, Pet || Herbivorous || Milk || 18 || 0.9 || 1.36 || 27.2
+|-
+| [[Deer]] || Wild || Herbivorous || - || - || - || 0.64 || 12.8
+|-
+| [[Donkey]] || Pack, Wild || Herbivorous || - || -  || - || 1.2 || 24
+|-
+| [[Dromedary]] || Farm, Pack, Wild || Herbivorous || Milk || 6 || 0.3 || 1.28 || 25.6
+|-
+| [[Duck]] || Farm, Wild || Herbivorous || Eggs || 0.286 || 0.071 || 0.56 || 11.2
+|-
+| [[Elephant]] || Pack, Wild || Herbivorous  || - || - || - || 3.2 || 64
+|-
+| [[Elk]] || Farm, Wild || Herbivorous || Milk || 6 || 0.3 || 1.36 || 27.2
+|-
+| [[Emu]] || Farm, Wild || Herbivorous || Eggs || 0.059 || 0.015 || 0.64 || 12.8
+|-
+| [[Fennec fox]] || Wild || Carnivorous || - || - || - || 0.19 || 3.8
+|-
+| [[Gazelle]] || Wild || Herbivorous || - || - || - || 0.56 || 11.2
+|-
+| [[Goat]] || Farm, Wild || Herbivorous || Milk || 6 || 0.3|| 0.72 || 14.4
+|-
+| [[Goose]] || Farm, Wild || Herbivorous  || Eggs || 0.625 || 0.156 || 0.72 || 14.4
+|-
+| [[Grizzly bear]] || Wild || Omnivorous || - || - || - || 0.56 || 11.2
+|-
+| [[Guinea pig]] || Wild || Herbivorous || - || - || - || 0.54 || 10.8
+|-
+| [[Hare]] || Wild || Herbivorous || - || - || - || 0.37 || 7.4
+|-
+| [[Horse]] || Pack, Wild || Herbivorous || - || - || - || 1.36 || 27.2
+|-
+| [[Husky]] || Pet || Omnivorous || - || - || - || 0.8 || 16
+|-
+| [[Ibex]] || Wild || Herbivorous || - || - || - || 0.56 || 11.2
+|-
+| [[Iguana]] || Farm, Wild || Omnivorous || Eggs || 0.100 || 0.025 || 0.45 || 9
+|-
+| [[Labrador retriever]] || Pet || Omnivorous || - || - || - || 0.64 || 12.8
+|-
+| [[Lynx]] || Wild || Carnivorous || - || - || - || 0.3 || 6
+|-
+| [[Megascarab]] || Insectoid, Wild || Omnivorous || - || - || - || 0.16 || 3.2
+|-
+| [[Megasloth]] || Farm, Wild || Herbivorous || Wool || 8 || - || 3.2 || 64
+|-
+| [[Megaspider]] || Insectoid, Wild || Omnivorous || - || -  || - || 0.56 || 11.2
+|-
+| [[Monkey]] || Wild || Omnivorous  || - || - || - || 0.4 || 8
+|-
+| [[Muffalo]] || Farm, Pack, Wild || Herbivorous || Wool || 4 || - || 1.36 || 27.2
+|-
+| [[Ostrich]] || Farm, Wild || Herbivorous || Eggs || 0.053 || 0.013 || 0.88 || 17.6
+|-
+| [[Panther]] || Wild || Carnivorous || - || - || - || 0.48 || 9.6
+|-
+| [[Pig]] || Pet || Omnivorous || - || - || - || 0.72 || 14.4
+|-
+| [[Polar bear]] || Wild || Omnivorous || - || - || - || 0.56 || 11.2
+|-
+| [[Raccoon]] || Wild || Omnivorous || - || - || - || 0.51 || 10.2
+|-
+| [[Rat]] || Wild || Omnivorous || - || - || - || 0.32 || 6.4
+|-
+| [[Red fox]] || Wild || Carnivorous || - || - || - || 0.19 || 3.8
+|-
+| [[Rhinoceros]] || Wild || Herbivorous || - || - || - || 2.4 || 48 
+|-
+| [[Sheep]] || Farm, Wild || Herbivorous || Wool || 4.5 || -  || 0.72 || 14.4
+|-
+| [[Snowhare]] || Wild || Herbivorous  || - || - || - || 0.37 || 7.4
+|-
+| [[Spelopede]] || Insectoid, Wild || Omnivorous || - || - || - || 0.4 || 8
+|-
+| [[Squirrel]] || Wild || Herbivorous || - || - || - || 0.32 || 6.4
+|-
+| [[Thrumbo]] || Wild || Dendrovorous || - || - || - || 5.6 || 112
+|-
+| [[Timber wolf]] || Wild || Carnivorous || - || - || - || 0.29 || 5.8
+|-
+| [[Tortoise]] || Farm, Wild || Omnivorous || Eggs || 0.100 || 0.025 || 0.53 || 10.6
+|-
+| [[Turkey]] || Farm, Wild || Herbivorous || Eggs || 0.091 || 0.023 || 0.8 || 16
+|-
+| [[Warg]] || Wild || Carnivorous || - || - || - || 0.4 || Cannot eat kibble or hay
+|-
+| [[Wild boar]] || Wild || Omnivorous || -  || - || -  || 0.72 || 14.4
+|-
+| [[Yak]] || Farm, Pack, Wild || Herbivorous || Milk || 6 || 0.3 || 1.36 || 27.2
+|-
+| [[Yorkshire terrier]] || Pet || Omnivorous || - || - || - || 0.48 || 9.6
+|-
+|}
